@@ -22,13 +22,13 @@ html {
  * Customize the background color to match your design.
  */
 
-::-moz-selection {
+span::-moz-selection {
     background: rebeccapurple;
     color: white;
     text-shadow: none;
 }
 
-::selection {
+span::selection {
     background: rebeccapurple;
     color: white;
     text-shadow: none;
