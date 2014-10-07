@@ -24,8 +24,20 @@
             display: table-cell;
             vertical-align: middle;
             margin: 2em auto;
-        }
+          }
 
+        footer{
+            width: 100%;
+            height: 50px;
+            postiton: fixed;
+        }
+        a{
+            border: 1px solid #7744AA;
+            background: rebeccapurple;
+            border-radius: 5px;
+            color: #ffffff;
+            text-decoration: none; 
+        }
         h1 {
             color: #555;
             font-size: 2em;
@@ -35,6 +47,9 @@
         p {
             margin: 0 auto;
             width: 280px;
+          }
+        img{
+            width: 50px;        
         }
 
         @media only screen and (max-width: 280px) {
@@ -55,6 +70,10 @@
 <body>
     <h1>Page Not Found</h1>
     <p>Sorry, but the page you were trying to view does not exist.</p>
+    <img src="404.png" alt=""/>
+    <footer>
+         <span><a href="https://twitter.com/intent/tweet?lang=en&text=A%20funny%20error404&url=http%3A%2F%2Fsimonvansuyt.github.io%2F404.html">tweet this page</a></span>
+    </footer>
 </body>
 </html>
 <!-- IE needs 512+ bytes: http://blogs.msdn.com/b/ieinternals/archive/2010/08/19/http-error-pages-in-internet-explorer.aspx -->
