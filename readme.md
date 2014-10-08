@@ -6,7 +6,7 @@
 * Including rebeccapurple, and good news: no browser support at all!!!
 * No IE suport at all!!!
 * Whit Unicorn errors!!!
-* Whit a cool [error 404 page](http://simonvansuyt.github.com/404.html)
+* Whit a cool [error 404 page](http://simonvansuyt.github.io/404.html)
 
 ###A look into the future.
 
@@ -14,4 +14,4 @@
 * Floating unicorns
 
 ## go to it
-[Visit simonvansuyt.github.io](http://simonvansuyt.github.com)
+[Visit simonvansuyt.github.io](http://simonvansuyt.github.io)
